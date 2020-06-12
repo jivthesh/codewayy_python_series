@@ -1,6 +1,13 @@
 # Python-task1
-TASK -1
-This files is all about the tasks in python.It contains all the task from day 1
+    1.Introduction of python
+    2.Working with variables:numbers and strings
 
 # Python-Task2
-
+  1. Slicing and indexing of strings
+  2.Slicing of Lists
+  
+ Working with four in-built data structures in python
+   1.Lists
+   2.Tuples
+   3.Sets
+   4.Dictionaries
