@@ -1,0 +1,27 @@
+1.Why is list used?
+ans.List in python are ordered and changeable.The elements in a list are indexed according to the definite sequence.
+   Each element in the list has its definite place in the list, which allows duplicating of elements in the list.
+    Lists are a useful tool for preserving a sequence of data and further iterating over it.
+	In addition of standard list craetion ,list comprehension is used for mapping and filtering.
+	
+
+2.How do lists nad sets differ?
+ans.(a)List is an ordered collection it maintains the insertion order, which means upon displaying the list content it will display the elements in the same order in which they got inserted into the list.
+      Set is an unordered collection, it doesn’t maintain any order. 
+	
+   (b)List allows duplicates while Set doesn’t allow duplicate elements.
+	All the elements of a Set should be unique if you try to insert the duplicate element in Set it would replace the existing value.
+	
+  (c)In python lists are written with square brackets.
+     Example: list1=["Apple","Google","Microsoft"]
+	 
+	 Whereas,in python sets are written with curly brackets.
+	 Example: set1={"Apple1',"Google","Microsoft"}
+  
+  (d)Methods used in list are: append(),count(),extend(),insert() etc.
+     Methods used in sets are: add(),discard(),union(), intersection() etc
+	.
+
+3.Application of dictionaries with real world example.
+ans. Data storage - so instead of remembering that a person’s name is at list index 0, and the address is at list index 1 - we can create a dictionary 
+     with keys of ‘name’ and ‘address’.This makes our code readable and helps to identify record easily and efficiently .
