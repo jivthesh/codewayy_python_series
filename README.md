@@ -11,3 +11,8 @@
    2.Tuples
    3.Sets
    4.Dictionaries
+
+# Python-Task3
+    1.Functions
+    2.For Loop
+    3.While Loop
