@@ -22,3 +22,8 @@
   1. Moduling.py files
   2.Find prime numbers of n*n matrices
   
+
+# Python-Task 5
+ 1.Error Handling
+ 2.sorting of list, tuples and sets
+ 3.File Handling
