@@ -27,3 +27,6 @@
  1.Error Handling
  2.sorting of list, tuples and sets
  3.File Handling
+
+
+# Python-Task 6
