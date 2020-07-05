@@ -30,3 +30,7 @@
 
 
 # Python-Task 6
+Revision
+
+# Python-Task 7
+Oops in Python
