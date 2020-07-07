@@ -1,8 +1,8 @@
 #Q3
 
-
 def string_test(string):
-    d={"UPPER_CASE":0, "LOWER_CASE":0}
+    d={"UPPER_CASE":0, "LOWER_CASE":0}  
+#appemding each alphabet from the string 
     for i in string:
         if i.isupper():
            d["UPPER_CASE"]+=1
